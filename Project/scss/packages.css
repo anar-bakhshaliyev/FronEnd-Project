@@ -1,0 +1,31 @@
+.A-Travel {
+  height: 335px;
+}
+
+.A-Travel h1 {
+  position: absolute;
+  color: white;
+  font-size: 3.3em;
+  font-weight: 600;
+  margin-left: 7.5em;
+  margin-top: 3em;
+}
+
+.A-Travel h6 {
+  color: white;
+  font-weight: 300;
+  position: absolute;
+  margin-top: 16em;
+  font-size: 15px;
+  margin-left: 33em;
+}
+
+.A-Travel h6 i {
+  font-size: 17px;
+  padding: 0px 10px;
+}
+
+.A-Travel .overflow {
+  height: 335px;
+}
+/*# sourceMappingURL=packages.css.map */

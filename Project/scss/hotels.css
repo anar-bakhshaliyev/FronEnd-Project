@@ -1,0 +1,16 @@
+.A-Travel {
+  height: 335px;
+}
+
+.A-Travel h1 {
+  color: white;
+  font-size: 3.3em;
+  font-weight: 600;
+  margin-left: 9em;
+  margin-top: 1em;
+}
+
+.A-Travel .overflow {
+  height: 335px;
+}
+/*# sourceMappingURL=hotels.css.map */

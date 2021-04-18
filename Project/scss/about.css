@@ -1,0 +1,35 @@
+.A-Travel {
+  height: 335px;
+}
+
+.A-Travel h1 {
+  color: white;
+  font-size: 3.3em;
+  font-weight: 600;
+  margin-left: 9em;
+  margin-top: 1em;
+}
+
+.A-Travel .overflow {
+  height: 335px;
+}
+
+.A-Request .col-6 {
+  margin: 8em 0px;
+}
+
+.A-Request .col-6 h1 {
+  font-size: 2.5em;
+  margin-left: 0px;
+}
+
+.A-Request .col-6 p {
+  margin-left: 0px;
+}
+
+.A-Request .col-6 span {
+  font-size: 15px;
+  color: black;
+  line-height: 4;
+}
+/*# sourceMappingURL=about.css.map */
